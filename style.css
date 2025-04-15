@@ -3,5 +3,33 @@
   height: 25%;
 }
 .Cor-logo{
-  background-color: ;
+  background-color: darkgray;
+}
+.produtos{
+  padding: 40px;
+  
+}
+#preço{
+  color: lightgreen;
+}
+h1{
+  color: white;
+}
+h2{
+  color: white;
+}
+html{
+  background-color: rgba(0, 0, 0, 8);
+}
+#titulo{
+  text-align: center;
+}
+.logo{
+  margin-left: 37%;
+}
+#tema{
+  text-align: center;
+}
+#RX550{
+  margin-right: 60%;
 }
