@@ -32,6 +32,7 @@ html{
 }
 #titulo{
   text-align: center;
+  font-size: 38px;
 }
 .logo{
   margin-left: 37%;
@@ -46,6 +47,14 @@ html{
   text-align: center;
   margin-top: 200px;
 }
-.paginas{
-  display: inline-block;
+.Paginas{
+  font-size: 28px;
+}
+.Paginas{
+  background-color: #3a3a3a;
+  padding: 2rem;
+  display: flex;
+  justify-content: center;
+  gap: 9rem;
+  margin: 1rem 0;
 }
