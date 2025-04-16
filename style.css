@@ -3,23 +3,23 @@
   height: 25%;
 }
 .Cor-logo{
-  background-color: darkgray;
+  background-color: #3a3a3a;
 }
 .produtos{
   padding: 40px;
   
 }
 #preço{
-  color: lightgreen;
+  color: orangered;
 }
 h1{
-  color: white;
+  color: lightblue;
 }
 h2{
-  color: white;
+  color: lightblue;
 }
 html{
-  background-color: rgba(0, 0, 0, 8);
+  background-color: #1a1a1a;
 }
 #titulo{
   text-align: center;
