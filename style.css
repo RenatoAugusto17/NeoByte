@@ -7,6 +7,16 @@
 }
 .produtos{
   padding: 40px;
+   display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+  }
+  .produto-item {
+    text-align: center;
+  }
+  .produto-item img {
+    width: 100%;
+    max-width: 300px;
   
 }
 #preço{
